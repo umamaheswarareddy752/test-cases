@@ -1,0 +1,5 @@
+Verify that the "Forgot Password" link redirects to the password recovery page.
+Verify alignment and visibility of username, password, and login button fields.
+Verify that validation messages appear in a clear and readable format when login fails.
+Verify the login button’s behavior when clicked multiple times.
+Verify that the "Remember Me" option works as expected.
