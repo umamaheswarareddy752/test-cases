@@ -1,0 +1,5 @@
+Verify that the user can log in with valid username and valid password.
+Verify that the user stays logged in after a successful login.
+Verify that the password field is masked (dots or asterisks) when typing.
+Verify that the "Login" button is disabled until both username and password are filled.
+Verify successful redirection to the homepage/dashboard after login.
