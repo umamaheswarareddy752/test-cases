@@ -1,0 +1,5 @@
+Verify login with an invalid username and valid password.
+Verify login with a valid username and invalid password.
+Verify login with empty username and password fields.
+Verify login with special characters or SQL injections (like admin' OR '1'='1).
+Verify system behavior when incorrect credentials are entered multiple times (like account lockout).
